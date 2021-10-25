@@ -1,0 +1,2 @@
+# The-smart-trash-bin
+This project has as a goal creating a smart trash bin based on Arduino in order to manage automatically the waste in a workshop and then follow a black line .The system is controlled by a DC-motor and based on transmitting and receiving ultrasonic signals by an Ultrasonic sensors to detect trash. First we looked for the sensors that allowed us to detect obstacles and other for line tracking, then we tried to set up a model robot based on Arduino microcontroller.
